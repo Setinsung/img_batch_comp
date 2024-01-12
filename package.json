@@ -1,0 +1,19 @@
+{
+  "name": "img_comp",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chromedriver": "^120.0.1",
+    "selenium-webdriver": "^4.16.0",
+    "sharp": "^0.33.2",
+    "tinify": "^1.7.1"
+  }
+}
